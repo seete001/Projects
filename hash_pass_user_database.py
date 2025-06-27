@@ -36,7 +36,7 @@ def hash_password(password):
 # اتصال به MySQL (بدون دیتابیس برای ساخت اولیه)
 connection = pymysql.connect(
     host='localhost',
-    user='sepehretemadi',
+    user='username',
     password='yourpassword'
 )
 
