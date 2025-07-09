@@ -1,8 +1,3 @@
-# blango
+# Random Projects
 
-Starting point for the Advanced Django course. This is the equivalent of the following command:
-
-
-```bash
-$ django-admin.py startproject blango
-```
+These are the mini projects i scripted to get to know how to work with pyhon ...
