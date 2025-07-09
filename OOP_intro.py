@@ -1,3 +1,6 @@
+#Creating classes and methods to get to know how to work with oop...
+
+
 class Animal():
     zoo_name = "Tehran Zoo"
     def __init__(self, name, sound, age, species):
