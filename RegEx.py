@@ -1,7 +1,7 @@
 import re
 
 
-with open("/Users/sepehretemadi/Desktop/combined.txt", "r") as f:
+with open("/Users/username/Desktop/combined.txt", "r") as f:
     lines = f.read()
 
 #print(lines)
