@@ -1,3 +1,0 @@
-# Random Projects
-
-These are the mini projects i scripted to get to know how to work with pyhon ...
