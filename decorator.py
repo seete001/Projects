@@ -1,3 +1,6 @@
+# get to know how decorators work i found out that we call decorator and it returns  the function we wanna run, i thought the fuction will be compiled by itssef...
+
+
 def evenMinutes(f):
     def wrapper():
         import datetime
